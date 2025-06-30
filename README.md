@@ -4,7 +4,9 @@ Merupakan perangkat lunak berbasis mobile yang berbasis teknologi React Native. 
 
 ## Screenshots
 <p>
-<img alt="SS Halaman Pengunjung" src="./Laporan Tubes PAB.jpg">
+<img alt="SS Halaman Awal" src="./assets/Laporan Tubes PAB.jpg">
+<img alt="SS Halaman Searching" src="./assets/Laporan Tubes PAB1.jpg">
+<img alt="SS Halaman Detil" src="./assets/Laporan Tubes PAB3.jpg">
 </p>
 <br clear="both"/>
 
