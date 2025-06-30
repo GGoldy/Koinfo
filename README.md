@@ -3,8 +3,10 @@
 Merupakan perangkat lunak berbasis mobile yang berbasis teknologi React Native. Fokus pengembangan aplikasi terletak pada penampilan data informasi cryptocurrency yang berasal dari suatu API public.
 
 ## Screenshots
-
-![My Logo](assets/Laporan Tubes PAB.jpg)
+<p>
+<img alt="SS Halaman Pengunjung" src="./Laporan Tubes PAB.jpg">
+</p>
+<br clear="both"/>
 
 ## Tech Stack
 
